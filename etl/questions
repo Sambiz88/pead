@@ -1,0 +1,2 @@
+is the stage function just a way to reupdate the data in the json. can i use it many times during the transforming part. if so, can i put stager function in utils. 
+

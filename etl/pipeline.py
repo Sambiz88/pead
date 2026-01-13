@@ -1,7 +1,4 @@
-from extract.api_extractor import APIExtractor
-from transform.cleaning_transformer import CleaningTransformer
-from load.warehouse_loader import WarehouseLoader
-
+"""
 
 class ETLPipeline:
     def __init__(self):
@@ -17,4 +14,8 @@ class ETLPipeline:
 
 if __name__ == "__main__":
     pipeline = ETLPipeline()
-    pipeline.run()
+    pipeline.run()"""
+
+import extractor, transformer, storage
+
+transformer.transform()
