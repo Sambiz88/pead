@@ -1,0 +1,116 @@
+1. Architectural view: how ETL is structured
+
+Most pipelines follow this conceptual flow:
+
+Source systems  →  Extract  →  Transform  →  Load  →  Data warehouse / lake
+
+
+Typical elements:
+
+✅ Sources
+
+APIs
+
+databases
+
+flat files (CSV, JSON, Parquet)
+
+streaming (Kafka)
+
+
+
+✅ Extract Layer
+
+handles connectivity
+
+queries, pagination, retries, auth
+
+outputs raw data (no business logic yet)
+
+
+
+✅ Staging Layer (optional but very common)
+
+stores raw but structured data
+
+often in:
+
+S3 / GCS / Azure blob
+
+staging database schema
+
+purpose:
+
+reproducibility
+
+auditability
+
+don’t lose raw data
+
+
+
+✅ Transform Layer
+
+cleaning
+
+validation
+
+joins
+
+type casting
+
+deduplication
+
+feature creation
+
+✅ Load Layer
+
+writes final data to:
+
+data warehouse (Snowflake, BigQuery, Redshift)
+
+lake (S3, Delta Lake)
+
+operational DBs
+
+⚙️ Orchestration
+
+Normally done by tools like:
+
+Airflow
+
+Prefect
+
+Dagster
+
+Luigi
+
+But conceptually it’s just:
+
+schedule tasks
+
+manage dependencies
+
+retries
+
+monitoring
+
+
+
+etl_project/
+ ├── extract/
+ │    ├── api_extractors.py
+ │    ├── db_extractors.py
+ │    └── file_extractors.py
+ ├── transform/
+ │    ├── cleaners.py
+ │    ├── validators.py
+ │    └── business_rules.py
+ ├── load/
+ │    ├── warehouse_loader.py
+ │    └── lake_loader.py
+ ├── common/
+ │    ├── logging.py
+ │    ├── config.py
+ │    └── utils.py
+ └── pipeline.py

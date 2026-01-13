@@ -1,0 +1,782 @@
+[
+    {
+        "symbol": "DAL",
+        "date": "2025-10-09 06:00:00",
+        "epsActual": 1.55,
+        "epsEstimated": 1.53,
+        "revenueActual": 16003000000,
+        "revenueEstimated": 14682059858,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.013071895424836612
+    },
+    {
+        "symbol": "JPM",
+        "date": "2025-10-14 06:00:00",
+        "epsActual": 4.63,
+        "epsEstimated": 4.85,
+        "revenueActual": 45798000000,
+        "revenueEstimated": 46166454906,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": -0.04536082474226799
+    },
+    {
+        "symbol": "TLRY",
+        "date": "2026-04-08 17:00:00",
+        "epsActual": -0.41,
+        "epsEstimated": -0.14,
+        "revenueActual": 217507000,
+        "revenueEstimated": 211148000,
+        "lastUpdated": "2026-01-08",
+        "epsDelta": 1.9285714285714282
+    },
+    {
+        "symbol": "CCL",
+        "date": "2026-03-19 09:00:00",
+        "epsActual": 0.34,
+        "epsEstimated": 0.2481,
+        "revenueActual": 6330000000,
+        "revenueEstimated": 6369308649,
+        "lastUpdated": "2026-01-12",
+        "epsDelta": 0.37041515517936335
+    },
+    {
+        "symbol": "NKE",
+        "date": "2026-03-19 17:00:00",
+        "epsActual": 0.53,
+        "epsEstimated": 0.3747,
+        "revenueActual": 12427000000,
+        "revenueEstimated": 12205298693,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.41446490525753954
+    },
+    {
+        "symbol": "FDX",
+        "date": "2026-03-19 17:00:00",
+        "epsActual": 4.82,
+        "epsEstimated": 4.12,
+        "revenueActual": 23469000000,
+        "revenueEstimated": 22782789387,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.16990291262135926
+    },
+    {
+        "symbol": "COST",
+        "date": "2026-03-05 16:00:00",
+        "epsActual": 4.34,
+        "epsEstimated": 4.27,
+        "revenueActual": 67307000000,
+        "revenueEstimated": 67143234240,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.016393442622950886
+    },
+    {
+        "symbol": "ADBE",
+        "date": "2026-03-12 17:00:00",
+        "epsActual": 5.5,
+        "epsEstimated": 5.4,
+        "revenueActual": 6194000000,
+        "revenueEstimated": 6110250292,
+        "lastUpdated": "2026-01-08",
+        "epsDelta": 0.01851851851851845
+    },
+    {
+        "symbol": "DOCU",
+        "date": "2026-03-12 17:00:00",
+        "epsActual": 1.01,
+        "epsEstimated": 0.916,
+        "revenueActual": 818350000,
+        "revenueEstimated": 806124877,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.1026200873362445
+    },
+    {
+        "symbol": "BABA",
+        "date": "2026-02-19 08:00:00",
+        "epsActual": 0.61,
+        "epsEstimated": 0.66,
+        "revenueActual": 34802807750,
+        "revenueEstimated": 41851123849,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": -0.07575757575757582
+    },
+    {
+        "symbol": "NIO",
+        "date": "2026-03-20 09:00:00",
+        "epsActual": -0.21171,
+        "epsEstimated": -0.2241,
+        "revenueActual": 3060949743,
+        "revenueEstimated": 3111828693,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": -0.05528781793842028
+    },
+    {
+        "symbol": "ZM",
+        "date": "2026-02-23 16:00:00",
+        "epsActual": 1.52,
+        "epsEstimated": 1.44,
+        "revenueActual": 1229835000,
+        "revenueEstimated": 1214609640,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.05555555555555561
+    },
+    {
+        "symbol": "WMT",
+        "date": "2026-02-19 08:00:00",
+        "epsActual": 0.62,
+        "epsEstimated": 0.601,
+        "revenueActual": 179496000000,
+        "revenueEstimated": 177444408069,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.031613976705490876
+    },
+    {
+        "symbol": "NVDA",
+        "date": "2026-02-25 16:00:00",
+        "epsActual": 1.3,
+        "epsEstimated": 1.26,
+        "revenueActual": 57006000000,
+        "revenueEstimated": 54913638815,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.03174603174603177
+    },
+    {
+        "symbol": "TGT",
+        "date": "2026-03-04 08:00:00",
+        "epsActual": 1.78,
+        "epsEstimated": 1.71,
+        "revenueActual": 25270000000,
+        "revenueEstimated": 25319528886,
+        "lastUpdated": "2026-01-12",
+        "epsDelta": 0.04093567251461992
+    },
+    {
+        "symbol": "BIDU",
+        "date": "2026-02-18 08:00:00",
+        "epsActual": 1.56,
+        "epsEstimated": 1.2,
+        "revenueActual": 4378388300,
+        "revenueEstimated": 4660820740,
+        "lastUpdated": "2025-12-29",
+        "epsDelta": 0.3000000000000001
+    },
+    {
+        "symbol": "SONY",
+        "date": "2026-02-05 08:00:00",
+        "epsActual": 0.37,
+        "epsEstimated": 0.33,
+        "revenueActual": 20713702889,
+        "revenueEstimated": 23829341331,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.12121212121212115
+    },
+    {
+        "symbol": "DIS",
+        "date": "2026-02-04 08:00:00",
+        "epsActual": 1.11,
+        "epsEstimated": 1.05,
+        "revenueActual": 22464000000,
+        "revenueEstimated": 22756894782,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.05714285714285719
+    },
+    {
+        "symbol": "CSCO",
+        "date": "2026-02-11 16:00:00",
+        "epsActual": 1,
+        "epsEstimated": 0.982,
+        "revenueActual": 14883000000,
+        "revenueEstimated": 14775465984,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.018329938900203683
+    },
+    {
+        "symbol": "MRNA",
+        "date": "2026-02-13 08:00:00",
+        "epsActual": -0.51,
+        "epsEstimated": -1.87,
+        "revenueActual": 1016000000,
+        "revenueEstimated": 920856801,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": -0.7272727272727273
+    },
+    {
+        "symbol": "SQ",
+        "date": "2024-11-07 16:00:00",
+        "epsActual": 0.742,
+        "epsEstimated": 0.638,
+        "revenueActual": 6114952000,
+        "revenueEstimated": 6303368878,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.1630094043887147
+    },
+    {
+        "symbol": "LCID",
+        "date": "2026-02-24 16:00:00",
+        "epsActual": -3.31,
+        "epsEstimated": -2.32,
+        "revenueActual": 336580000,
+        "revenueEstimated": 473078750,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.4267241379310346
+    },
+    {
+        "symbol": "CPRX",
+        "date": "2026-02-25 16:00:00",
+        "epsActual": 0.68,
+        "epsEstimated": 0.51,
+        "revenueActual": 148392000,
+        "revenueEstimated": 141493380,
+        "lastUpdated": "2026-01-12",
+        "epsDelta": 0.3333333333333334
+    },
+    {
+        "symbol": "HOOD",
+        "date": "2026-02-10 16:00:00",
+        "epsActual": 0.61,
+        "epsEstimated": 0.538,
+        "revenueActual": 1274000000,
+        "revenueEstimated": 1212565329,
+        "lastUpdated": "2026-01-12",
+        "epsDelta": 0.13382899628252778
+    },
+    {
+        "symbol": "ET",
+        "date": "2026-02-17 08:00:00",
+        "epsActual": 0.28,
+        "epsEstimated": 0.3333,
+        "revenueActual": 19954000000,
+        "revenueEstimated": 21920911190,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": -0.1599159915991598
+    },
+    {
+        "symbol": "SNAP",
+        "date": "2026-02-03 16:00:00",
+        "epsActual": 0.06,
+        "epsEstimated": -0.12183,
+        "revenueActual": 1506839000,
+        "revenueEstimated": 1489882417,
+        "lastUpdated": "2025-12-29",
+        "epsDelta": -1.4924895345973899
+    },
+    {
+        "symbol": "SHOP",
+        "date": "2026-02-11 08:00:00",
+        "epsActual": 0.34,
+        "epsEstimated": 0.3367,
+        "revenueActual": 2844000000,
+        "revenueEstimated": 2751698909,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.009801009801009876
+    },
+    {
+        "symbol": "AMD",
+        "date": "2026-02-03 16:00:00",
+        "epsActual": 1.2,
+        "epsEstimated": 1.17,
+        "revenueActual": 9246000000,
+        "revenueEstimated": 8756463065,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.025641025641025664
+    },
+    {
+        "symbol": "PFE",
+        "date": "2026-02-03 08:00:00",
+        "epsActual": 0.87,
+        "epsEstimated": 0.633,
+        "revenueActual": 16654000000,
+        "revenueEstimated": 16498101464,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.3744075829383886
+    },
+    {
+        "symbol": "PINS",
+        "date": "2026-02-05 16:00:00",
+        "epsActual": 0.38,
+        "epsEstimated": 0.4164,
+        "revenueActual": 1049205000,
+        "revenueEstimated": 1048692620,
+        "lastUpdated": "2026-01-05",
+        "epsDelta": -0.08741594620557154
+    },
+    {
+        "symbol": "RIVN",
+        "date": "2026-02-12 16:00:00",
+        "epsActual": -0.7,
+        "epsEstimated": -0.73934,
+        "revenueActual": 1558000000,
+        "revenueEstimated": 1510305530,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": -0.053209619390267054
+    },
+    {
+        "symbol": "UBER",
+        "date": "2026-02-04 08:00:00",
+        "epsActual": 3.11,
+        "epsEstimated": 0.69,
+        "revenueActual": 13467000000,
+        "revenueEstimated": 13284070394,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 3.5072463768115942
+    },
+    {
+        "symbol": "FUBO",
+        "date": "2026-02-27 08:00:00",
+        "epsActual": 0.02,
+        "epsEstimated": -0.04,
+        "revenueActual": 377195000,
+        "revenueEstimated": 1189400000,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": -1.5
+    },
+    {
+        "symbol": "PLTR",
+        "date": "2026-02-02 16:00:00",
+        "epsActual": 0.21,
+        "epsEstimated": 0.1679,
+        "revenueActual": 1181092000,
+        "revenueEstimated": 1091837803,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.25074449076831445
+    },
+    {
+        "symbol": "XOM",
+        "date": "2026-01-30 08:00:00",
+        "epsActual": 1.88,
+        "epsEstimated": 1.82,
+        "revenueActual": 85294000000,
+        "revenueEstimated": 86465744162,
+        "lastUpdated": "2025-11-03",
+        "epsDelta": 0.03296703296703287
+    },
+    {
+        "symbol": "ABBV",
+        "date": "2026-02-04 08:00:00",
+        "epsActual": 1.86,
+        "epsEstimated": 1.77,
+        "revenueActual": 15776000000,
+        "revenueEstimated": 15585836457,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.05084745762711869
+    },
+    {
+        "symbol": "CVX",
+        "date": "2026-01-30 08:00:00",
+        "epsActual": 1.85,
+        "epsEstimated": 1.69,
+        "revenueActual": 48169000000,
+        "revenueEstimated": 48944756181,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.09467455621301783
+    },
+    {
+        "symbol": "AMZN",
+        "date": "2026-02-05 16:00:00",
+        "epsActual": 1.95,
+        "epsEstimated": 1.57,
+        "revenueActual": 180169000000,
+        "revenueEstimated": 177913214900,
+        "lastUpdated": "2026-01-12",
+        "epsDelta": 0.24203821656050947
+    },
+    {
+        "symbol": "RIOT",
+        "date": "2026-02-24 16:00:00",
+        "epsActual": 0.26,
+        "epsEstimated": -0.19,
+        "revenueActual": 180229000,
+        "revenueEstimated": 162531000,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": -2.3684210526315788
+    },
+    {
+        "symbol": "RBLX",
+        "date": "2026-02-05 16:00:00",
+        "epsActual": -0.37,
+        "epsEstimated": -0.48572,
+        "revenueActual": 1359646000,
+        "revenueEstimated": 1708111745,
+        "lastUpdated": "2026-01-12",
+        "epsDelta": -0.23824425594992998
+    },
+    {
+        "symbol": "SIRI",
+        "date": "2026-02-05 08:00:00",
+        "epsActual": 0.84,
+        "epsEstimated": 0.784,
+        "revenueActual": 2159000000,
+        "revenueEstimated": 2140638555,
+        "lastUpdated": "2026-01-12",
+        "epsDelta": 0.07142857142857134
+    },
+    {
+        "symbol": "COIN",
+        "date": "2026-02-19 16:00:00",
+        "epsActual": 1.44,
+        "epsEstimated": 1.2,
+        "revenueActual": 1868693000,
+        "revenueEstimated": 1770667960,
+        "lastUpdated": "2026-01-12",
+        "epsDelta": 0.2
+    },
+    {
+        "symbol": "ROKU",
+        "date": "2026-02-12 16:00:00",
+        "epsActual": 0.16,
+        "epsEstimated": 0.07,
+        "revenueActual": 1210638000,
+        "revenueEstimated": 1353357830,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 1.2857142857142856
+    },
+    {
+        "symbol": "RKT",
+        "date": "2026-02-26 16:00:00",
+        "epsActual": 0.07,
+        "epsEstimated": 0.04494,
+        "revenueActual": 1561999000,
+        "revenueEstimated": 1671429967,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.5576323987538943
+    },
+    {
+        "symbol": "AAPL",
+        "date": "2026-01-29 16:00:00",
+        "epsActual": 1.85,
+        "epsEstimated": 1.78,
+        "revenueActual": 102466000000,
+        "revenueEstimated": 102227074560,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.03932584269662925
+    },
+    {
+        "symbol": "MSFT",
+        "date": "2026-01-28 16:00:00",
+        "epsActual": 4.13,
+        "epsEstimated": 3.67,
+        "revenueActual": 77673000000,
+        "revenueEstimated": 75494678452,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.12534059945504086
+    },
+    {
+        "symbol": "META",
+        "date": "2026-01-28 16:00:00",
+        "epsActual": 7.25,
+        "epsEstimated": 6.72,
+        "revenueActual": 51242000000,
+        "revenueEstimated": 49508128269,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.07886904761904766
+    },
+    {
+        "symbol": "MGM",
+        "date": "2026-02-11 16:00:00",
+        "epsActual": 0.24,
+        "epsEstimated": 0.37,
+        "revenueActual": 4250464000,
+        "revenueEstimated": 4419267560,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": -0.35135135135135137
+    },
+    {
+        "symbol": "ETSY",
+        "date": "2026-02-18 08:00:00",
+        "epsActual": 0.63,
+        "epsEstimated": 0.52,
+        "revenueActual": 678026000,
+        "revenueEstimated": 883468980,
+        "lastUpdated": "2026-01-05",
+        "epsDelta": 0.2115384615384615
+    },
+    {
+        "symbol": "SBUX",
+        "date": "2026-01-27 16:00:00",
+        "epsActual": 0.52,
+        "epsEstimated": 0.556,
+        "revenueActual": 9569000000,
+        "revenueEstimated": 9327366691,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": -0.06474820143884898
+    },
+    {
+        "symbol": "BA",
+        "date": "2026-01-27 08:00:00",
+        "epsActual": -7.47,
+        "epsEstimated": -5.16,
+        "revenueActual": 23270000000,
+        "revenueEstimated": 22056708929,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.44767441860465107
+    },
+    {
+        "symbol": "VZ",
+        "date": "2026-01-30 08:00:00",
+        "epsActual": 1.21,
+        "epsEstimated": 1.19,
+        "revenueActual": 33821000000,
+        "revenueEstimated": 34256730704,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.016806722689075647
+    },
+    {
+        "symbol": "GOOGL",
+        "date": "2026-02-04 16:00:00",
+        "epsActual": 2.87,
+        "epsEstimated": 2.3,
+        "revenueActual": 102346000000,
+        "revenueEstimated": 99927409490,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.2478260869565219
+    },
+    {
+        "symbol": "CARR",
+        "date": "2026-02-10 08:00:00",
+        "epsActual": 0.67,
+        "epsEstimated": 0.634,
+        "revenueActual": 5579000000,
+        "revenueEstimated": 5652295350,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.056782334384858094
+    },
+    {
+        "symbol": "SOFI",
+        "date": "2026-01-30 08:00:00",
+        "epsActual": 0.11,
+        "epsEstimated": 0.08332,
+        "revenueActual": 961600000,
+        "revenueEstimated": 888909910,
+        "lastUpdated": "2026-01-05",
+        "epsDelta": 0.3202112337974075
+    },
+    {
+        "symbol": "V",
+        "date": "2026-01-27 16:00:00",
+        "epsActual": 2.98,
+        "epsEstimated": 2.97,
+        "revenueActual": 10724000000,
+        "revenueEstimated": 10618837361,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.003367003367003295
+    },
+    {
+        "symbol": "UNH",
+        "date": "2026-01-27 08:00:00",
+        "epsActual": 2.92,
+        "epsEstimated": 2.8,
+        "revenueActual": 113161000000,
+        "revenueEstimated": 113027893932,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.0428571428571429
+    },
+    {
+        "symbol": "PYPL",
+        "date": "2026-02-03 08:00:00",
+        "epsActual": 1.34,
+        "epsEstimated": 1.2,
+        "revenueActual": 8417000000,
+        "revenueEstimated": 8236113464,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.11666666666666678
+    },
+    {
+        "symbol": "HCA",
+        "date": "2026-01-27 08:00:00",
+        "epsActual": 6.96,
+        "epsEstimated": 5.79,
+        "revenueActual": 19161000000,
+        "revenueEstimated": 18599805345,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.20207253886010362
+    },
+    {
+        "symbol": "INTC",
+        "date": "2026-01-22 16:00:00",
+        "epsActual": 0.23,
+        "epsEstimated": 0.01781,
+        "revenueActual": 13653000000,
+        "revenueEstimated": 13196872780,
+        "lastUpdated": "2026-01-12",
+        "epsDelta": 11.91409320606401
+    },
+    {
+        "symbol": "F",
+        "date": "2026-02-10 16:00:00",
+        "epsActual": 0.45,
+        "epsEstimated": 0.3539,
+        "revenueActual": 50534000000,
+        "revenueEstimated": 47048148778,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.27154563435998874
+    },
+    {
+        "symbol": "AAL",
+        "date": "2026-01-27 08:00:00",
+        "epsActual": -0.17,
+        "epsEstimated": -0.27842,
+        "revenueActual": 13691000000,
+        "revenueEstimated": 13627064322,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": -0.38941168019538824
+    },
+    {
+        "symbol": "NOK",
+        "date": "2026-01-29 08:00:00",
+        "epsActual": 0.07,
+        "epsEstimated": 0.06,
+        "revenueActual": 5660651250,
+        "revenueEstimated": 6115135630,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.16666666666666682
+    },
+    {
+        "symbol": "T",
+        "date": "2026-01-28 08:00:00",
+        "epsActual": 0.54,
+        "epsEstimated": 0.537,
+        "revenueActual": 30709000000,
+        "revenueEstimated": 30869703545,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.005586592178770954
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-28 16:00:00",
+        "epsActual": 0.5,
+        "epsEstimated": 0.558,
+        "revenueActual": 28095000000,
+        "revenueEstimated": 26540367719,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": -0.10394265232974918
+    },
+    {
+        "symbol": "NFLX",
+        "date": "2026-01-20 16:00:00",
+        "epsActual": 0.59,
+        "epsEstimated": 0.696,
+        "revenueActual": 11510307000,
+        "revenueEstimated": 11508430066,
+        "lastUpdated": "2026-01-12",
+        "epsDelta": -0.15229885057471262
+    },
+    {
+        "symbol": "LMT",
+        "date": "2026-01-29 08:00:00",
+        "epsActual": 6.95,
+        "epsEstimated": 6.38,
+        "revenueActual": 18609000000,
+        "revenueEstimated": 18552992043,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.0893416927899687
+    },
+    {
+        "symbol": "KO",
+        "date": "2026-02-10 08:00:00",
+        "epsActual": 0.82,
+        "epsEstimated": 0.779,
+        "revenueActual": 12455000000,
+        "revenueEstimated": 12405071870,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.05263157894736832
+    },
+    {
+        "symbol": "GM",
+        "date": "2026-01-27 08:00:00",
+        "epsActual": 2.8,
+        "epsEstimated": 2.29,
+        "revenueActual": 45049000000,
+        "revenueEstimated": 45036657792,
+        "lastUpdated": "2026-01-12",
+        "epsDelta": 0.22270742358078593
+    },
+    {
+        "symbol": "GE",
+        "date": "2026-01-22 08:00:00",
+        "epsActual": 1.66,
+        "epsEstimated": 1.46,
+        "revenueActual": 12221000000,
+        "revenueEstimated": 10385137619,
+        "lastUpdated": "2026-01-12",
+        "epsDelta": 0.13698630136986298
+    },
+    {
+        "symbol": "TSM",
+        "date": "2026-01-15 08:00:00",
+        "epsActual": 2.92,
+        "epsEstimated": 2.59,
+        "revenueActual": 32420190668,
+        "revenueEstimated": 32071991416,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.12741312741312744
+    },
+    {
+        "symbol": "BAC",
+        "date": "2026-01-14 08:00:00",
+        "epsActual": 1.06,
+        "epsEstimated": 0.952,
+        "revenueActual": 28088000000,
+        "revenueEstimated": 27515189028,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.11344537815126061
+    },
+    {
+        "symbol": "UAL",
+        "date": "2026-01-20 16:00:00",
+        "epsActual": 2.78,
+        "epsEstimated": 2.65,
+        "revenueActual": 15225000000,
+        "revenueEstimated": 15332010811,
+        "lastUpdated": "2026-01-12",
+        "epsDelta": 0.04905660377358487
+    },
+    {
+        "symbol": "WFC",
+        "date": "2026-01-14 08:00:00",
+        "epsActual": 1.73,
+        "epsEstimated": 1.55,
+        "revenueActual": 21436000000,
+        "revenueEstimated": 21145924308,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.11612903225806448
+    },
+    {
+        "symbol": "C",
+        "date": "2026-01-14 08:00:00",
+        "epsActual": 2.24,
+        "epsEstimated": 1.73,
+        "revenueActual": 22090000000,
+        "revenueEstimated": 21086091499,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.2947976878612718
+    },
+    {
+        "symbol": "JNJ",
+        "date": "2026-01-21 08:00:00",
+        "epsActual": 2.8,
+        "epsEstimated": 2.76,
+        "revenueActual": 23993000000,
+        "revenueEstimated": 23755362271,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.01449275362318842
+    },
+    {
+        "symbol": "GS",
+        "date": "2026-01-15 08:00:00",
+        "epsActual": 12.25,
+        "epsEstimated": 11.03,
+        "revenueActual": 15184000000,
+        "revenueEstimated": 14123820274,
+        "lastUpdated": "2026-01-12",
+        "epsDelta": 0.11060743427017232
+    },
+    {
+        "symbol": "JPM",
+        "date": "2025-10-14 06:00:00",
+        "epsActual": 5.07,
+        "epsEstimated": 4.85,
+        "revenueActual": 46427000000,
+        "revenueEstimated": 45467182057,
+        "lastUpdated": "2026-01-13",
+        "epsDelta": 0.04536082474226818
+    }
+]
