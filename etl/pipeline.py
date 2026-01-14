@@ -18,4 +18,5 @@ if __name__ == "__main__":
 
 import extractor, transformer, storage
 
+extractor.extract()
 transformer.transform()

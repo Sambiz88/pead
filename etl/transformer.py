@@ -1,5 +1,8 @@
 import json
 import storage
+from utils import is_call_in_am, get_close_price
+import yfinance as yf
+from datetime import datetime, timedelta
 
 def clean():
     
@@ -13,14 +16,14 @@ def clean():
 
 def standardize():
         
-    import yfinance as yf
+    
     import datetime as dt
     from zoneinfo import ZoneInfo
     today = dt.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     data = storage.read_json()
 
-    i = 5
+ 
     for entry in data:
 
         print(entry['symbol'])
@@ -36,10 +39,6 @@ def standardize():
         entry['date'] = datetime_str
                  
         print(datetime_str)
-        i = i-1
-        if i<0:
-            break
-
 
     storage.write_json(data)
 
@@ -49,12 +48,27 @@ def enrich():
     data = storage.read_json()
 
     for entry in data:
-        entry['epsDelta'] = (entry['epsActual'] - entry['epsEstimated'])/entry['epsEstimated']
+        entry['surprise'] = (entry['epsActual'] - entry['epsEstimated'])/abs(entry['epsEstimated'])
+
 
     storage.write_json(data)
 
 
+def pre_earnings_price():
+    data = storage.read_json()
 
+    for object in data:
+        if is_call_in_am(object["date"]) == False:
+            object["preEarningsPrice"] = get_close_price(object["symbol"], object["date"])
+        
+        else:
+            date = datetime.strptime(object["date"], "%Y-%m-%d %H:%M:%S")
+            date = date-timedelta(days=1)
+            date = date.strftime("%Y-%m-%d %H:%M:%S")
+
+            object["preEarningsPrice"] = get_close_price(object["symbol"], date)
+
+    storage.write_json(data)
 
 def transform():
     clean()

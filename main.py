@@ -7,6 +7,8 @@ df = pd.read_csv('constituents.csv')
 
 last_earnings_list = []
 
+print(dt.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+print(type(dt.datetime.now().strftime("%Y-%m-%d %H:%M:%S")))
 
 stock = yf.Ticker("AAPL")
 earnings_history = stock.earnings_dates

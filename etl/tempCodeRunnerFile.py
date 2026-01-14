@@ -1,0 +1,1 @@
+# Market closed, or ticker invalid
